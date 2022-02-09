@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+<a href="https://github.com/hsnkorkmaz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnkorkmaz&theme=shades-of-purple&layout=compact" 
+    alt="hsnkorkmaz GitHub Top Languages" />
+</a>
+
+
+
 <!--
 **hsnkorkmaz/hsnkorkmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
