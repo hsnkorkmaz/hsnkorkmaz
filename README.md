@@ -11,6 +11,8 @@ Latest projects;
 - WhatsApp Web Clone / React, Tailwind CSS <a href="https://github.com/hsnkorkmaz/whatsapp-web-clone">GitHub Repository</a>
 - Twitter Clone / React, Tailwind CSS, Firebase <a href="https://github.com/hsnkorkmaz/twitter-clone">GitHub Repository</a>
 
+<a href="https://www.linkedin.com/in/hasan-s-mustafa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <a href="https://github.com/hsnkorkmaz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnkorkmaz&theme=shades-of-purple&layout=compact" 
     alt="hsnkorkmaz GitHub Top Languages" />
