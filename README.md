@@ -2,7 +2,7 @@
 
 Latest projects;
 
-- Rest Api / GO <a href="https://github.com/hsnkorkmaz/go-rest-api">GitHub Repository</a>
+- Go Hexagonal Architecture / GO <a href="https://github.com/hsnkorkmaz/go-hexagonal">GitHub Repository</a>
 - Smhi Api Wrapper Package / GO <a href="https://github.com/hsnkorkmaz/smhi-go">GitHub Repository</a>
 - Smhi Api Wrapper / .NET WPF <a href="https://github.com/hsnkorkmaz/Smhi-WeatherWrapperWPF">GitHub Repository</a>
 - Sudoku Game API with Microsoft Identity Platform using Azure AD B2C and Azure GraphAPI <a href="https://github.com/hsnkorkmaz/SudokuAPI-AZ-B2C">GitHub Repository</a>
